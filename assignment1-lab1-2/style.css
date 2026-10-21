@@ -1,0 +1,12 @@
+h1 {
+    text-align: right;
+}
+
+hr {
+    width: 45%;
+    margin-right: 0;
+}
+
+.right-text {
+    text-align: right;
+}
